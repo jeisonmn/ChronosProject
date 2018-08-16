@@ -45,7 +45,7 @@ Ahora tenemos que configurar el IIS para que levante los aplicativos ASP.NET
 En el administrador del IIS (win + r, inetmgr) nos vamos a Grupo de aplicaciones.
 
 1) Desplegamos grupos de aplicaciones
-2) Por defecto los aplicativos apuntan a DefaultAppPool, le damos doble click y cambiamos la versión del framework a la 4.0 o la más reciente.
+2) Por defecto los aplicativos apuntan a DefaultAppPool, le damos doble click y cambiamos la versión del framework a la más reciente.
 
 Publicando nuestro proyecto en el IIS
 
